@@ -1,0 +1,23 @@
+UCM DEMO BETA v1.0
+This is a simple client side program. It will connect to a UCM Asterisk server. Response and Event information will be saved in a file called 'logfile.txt'.
+
+how to run:
+1. unzip the file in your working directory
+
+2. open terminal enter your working directory
+eg: if UCM DEMO unzipped in Desktop/UCM 
+type in terminal the following:
+cd ~/Desktop/UCM
+
+3. in terminal, type: make
+
+4. in terminal type: ./UCM
+
+5. UCM DEMO should start to run
+
+Note: 
+1.After you key in your username and password, you will have 30s to login.
+2.If you entered the wrong combination of the username and password, UCM DEMO will be terminated
+3.Your IP address MUST be allowed by UCM server, otherwise authentication with UCM server will fail.
+
+
